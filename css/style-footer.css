@@ -4,9 +4,9 @@
   width: 102%;
   height: 100vh;
   background: linear-gradient(180deg, rgb(97, 97, 97) 0%, rgb(173, 173, 173) 35%, rgb(255, 255, 255) 100%);
-position: absolute;
-right: 0px;
-bottom: 24px;
+  position: absolute;
+  right: 0px;
+  bottom: 33px;
   }
   
   .circle .relaxing {
