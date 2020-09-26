@@ -129,16 +129,14 @@ width: 55%;
   height: 50px;
 }
 #footer{
-  position: absolute;
+  position: relative;
   top: 1900px;
-  right: -1.1%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 1345px;
+  margin: auto;
   padding: 350px;
-  margin: 15px;
-  background-color: #ffffff;
+  background: linear-gradient(180deg, rgb(97, 97, 97) 0%, rgb(173, 173, 173) 35%, rgb(255, 255, 255) 100%);
 }
 
 

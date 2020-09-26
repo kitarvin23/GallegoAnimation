@@ -7,13 +7,12 @@
 <div class="yoyo">
    <h1 class="block-effect" style="--td: 1.2s">
       <div class="block-reveal" style="--bc: #000; --d: .1s;">GET SERIOUS.</div>
-      <div class="block-reveal2" style="--bc: #756f71; --d: .5s;">GET <span style="
-         font-size:100px;">Coffee</span>.</div>
+      <div class="block-reveal2" style="--bc: #756f71; --d: .5s;">GET COFFEE</div>
    </h1>
 </div>
 <!-- animation  -->
 <!-- first cup -->
-<div id="containercup1" >
+  <div id="containercup1" >
    <div class="steam steam-one"></div>
    <div class="steam steam-two"></div>
    <div class="steam steam-three"></div>
@@ -26,7 +25,7 @@
 </div>
 <!-- first cup -->
 <!-- first cup Text -->
-<div class="text1-bold">
+  <div class="text1-bold">
    <h1>
    WELCOME
    <h1>
@@ -67,7 +66,7 @@
 </div>
 <!-- Second Cup -->
 <!-- Second cup Text -->
-<div class="text2-bold">
+  <div class="text2-bold">
    <h2>COFFEE & CLOUDS</h2>
 </div>
 <div class="text2">
@@ -80,7 +79,7 @@
 </div>
 <!-- Second cup Text -->
 <!-- Donut -->
-<div id="containercup3" >
+<div id="containercup3">
    <div id="bgcup3"></div>
    <div class="donut">
       <div class="icing">
@@ -94,7 +93,7 @@
 </div>
 <!-- Donut -->
 <!-- Donut Text -->
-<div class="text3-bold">
+  <div class="text3-bold">
    <h2>
   ROSQUILLA
    <h2>
@@ -104,5 +103,6 @@
        making it the donut the loser of the "classic" donuts.Though, it must be said, the worst
        Dunkin' donut is better than no donut at all.
    </p>
+</div>
 </div>
 <!-- Donut Text -->
