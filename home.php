@@ -8,7 +8,7 @@
    <h1 class="block-effect" style="--td: 1.2s">
       <div class="block-reveal" style="--bc: #000; --d: .1s;">GET SERIOUS.</div>
       <div class="block-reveal2" style="--bc: #756f71; --d: .5s;">GET <span style="
-         font-family:soredona;font-size:150px;">Coffee</span>.</div>
+         font-family:quickers;font-size:150px;">Coffee</span>.</div>
    </h1>
 </div>
 <!-- animation  -->
