@@ -152,15 +152,15 @@ width: 55%;
 .Daily-events-box{
   position: absolute;
   top:-19.2px;
-  right:-15px;
-  width: 1348.5px;
-  padding: 32px;
-  margin: 15px;
+  right:0px;
+  height:65px;
+  width: 100%;
+  margin: auto 0;
   background-color: #000;
 }
 .Daily-events{
   position: absolute;
-  top: -10px;
+  top: -22px;
   right:  55%;
   display: block;
   margin-left: auto;
@@ -495,7 +495,7 @@ width: 55%;
 }
 .contact{
   position: absolute;
-  top: -4px;
+  top: -18px;
   right:  18%;
   display: block;
    margin: 15px;
