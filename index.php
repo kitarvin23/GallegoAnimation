@@ -12,6 +12,7 @@ $prod = (isset($_GET['id']) && $_GET['id'] != '') ? $_GET['id'] : '';
 <link rel="stylesheet" type="text/css" href="css/stylewew.css">
 <link rel="stylesheet" type="text/css" href="css/style-footer.css">
 <link rel="stylesheet" type="text/css" href="css/styleheader.css">
+<link rel="stylesheet" type="text/css" href="css/styleicon.css">
   <title>Levape Cafe</title>
 </head>
 <body>
